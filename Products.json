@@ -1,35 +1,60 @@
 [
   {
-    "id" : 1
-    "name": "Faber Castel Uçlu Kalem",
+    "id" : 1,
+    "name": "Adana Dürüm",
+    "price": 50.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/adana_durum.png"
+  },
+  {
+    "id" : 2,
+    "name": "Çiğ Köfte Dürüm",
+    "price": 15.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/cig_kofte.png"
+  },
+  {
+    "id" : 3,
+    "name": "Karışık Pide",
     "price": 45.0,
-    "quality": 100,
-    "category": "Okul Eşyaları",
-    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/faber_pencil.png"
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/karisik_pide.png"
   },
   {
-    "id" : 2
-    "name": "Rotring Uçlu Kalem",
-    "price": 35.0,
-    "quality": 100,
-    "category": "Okul Eşyaları",
-    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/rotring_pencil.jpg"
+    "id" : 4,
+    "name": "Kuşbaşı Pide",
+    "price": 50.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/kusbasili_pide.png"
   },
   {
-    "id" : 3
-    "name": "Not Defteri",
+    "id" : 5,
+    "name": "Kıymalı Börek(porsiyon)",
     "price": 25.0,
-    "quality": 100,
-    "category": "Okul Eşyaları",
-    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/notebook.png"
-  },
-    {
-    "id" : 4
-    "name": "Silgi",
-    "price": 10.0,
-    "quality": 100,
-    "category": "Okul Eşyaları",
-    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/eraser.png"
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/kiymali_borek.png"
   }
+  {
+    "id" : 6,
+    "name": "Lazanya",
+    "price": 75.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/lazanya.png"
+  }
+  {
+    "id" : 7,
+    "name": "Mantı(porsiyon)",
+    "price": 50.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/kusbasili_pide.png"
+  },
+  {
+    "id" : 8,
+    "name": "Tantuni ",
+    "price": 35.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/tantuni.png"
+  },
+  {
+    "id" : 9,
+    "name": "Tavuklu Pilav",
+    "price": 30.0,
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/tavuklu_pilav.png"
+  }
+
+
+
 
 ]
