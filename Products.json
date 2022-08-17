@@ -4,20 +4,20 @@
     "name": "Faber Castel Uçlu Kalem",
     "price": 45.0,
     "quality": 100,
-    "image_url": ""
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/faber_pencil.png"
   },
   {
     "id" : 2
     "name": "Rotring Uçlu Kalem",
     "price": 35.0,
     "quality": 100,
-    "image_url": ""
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/rotring_pencil.jpg"
   },
   {
     "id" : 3
     "name": "Not Defteri",
     "price": 25.0,
     "quality": 100,
-    "image_url": ""
+    "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/notebook.png"
   }
 ]
