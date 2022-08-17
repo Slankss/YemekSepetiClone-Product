@@ -1,0 +1,24 @@
+{
+   “Products”: [
+      {
+         “id”: “1”,
+         “name”: “Kareli Defter (60 yaprak)”,
+         “price”: 15.0,
+         “quality”: 100
+        
+      },
+      {
+       	 “id”: “2”,
+         “name”: “Çizgili Defter (60 yaprak)”,
+         “price”: 15.0,
+         “quality”: 100
+        
+      },
+      {
+        “id”: “3”,
+         “name”: “Not Defteri ”,
+         “price”: 5.0,
+         “quality”: 100
+      }
+   ]
+}
