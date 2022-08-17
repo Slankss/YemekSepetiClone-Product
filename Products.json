@@ -1,24 +1,23 @@
-{
-   “Products”: [
-      {
-         “id”: “1”,
-         “name”: “Kareli Defter (60 yaprak)”,
-         “price”: 15.0,
-         “quality”: 100
-        
-      },
-      {
-       	 “id”: “2”,
-         “name”: “Çizgili Defter (60 yaprak)”,
-         “price”: 15.0,
-         “quality”: 100
-        
-      },
-      {
-        “id”: “3”,
-         “name”: “Not Defteri ”,
-         “price”: 5.0,
-         “quality”: 100
-      }
-   ]
-}
+[
+  {
+    "id" : 1
+    "name": "Faber Castel Uçlu Kalem",
+    "price": 45.0,
+    "quality": 100,
+    "image_url": ""
+  },
+  {
+    "id" : 2
+    "name": "Rotring Uçlu Kalem",
+    "price": 35.0,
+    "quality": 100,
+    "image_url": ""
+  },
+  {
+    "id" : 3
+    "name": "Not Defteri",
+    "price": 25.0,
+    "quality": 100,
+    "image_url": ""
+  }
+]
