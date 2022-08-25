@@ -28,13 +28,13 @@
     "name": "Kıymalı Börek(porsiyon)",
     "price": 25.0,
     "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/kiymali_borek.png"
-  }
+  },
   {
     "id" : 6,
     "name": "Lazanya",
     "price": 75.0,
     "image_url": "https://raw.githubusercontent.com/Slankss/YemekSepetiClone-Product/master/lazanya.png"
-  }
+  },
   {
     "id" : 7,
     "name": "Mantı(porsiyon)",
